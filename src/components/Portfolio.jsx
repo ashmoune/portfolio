@@ -24,7 +24,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: TripAdvisor,
-      liveUrl: "https://spoon-fork.netlify.app/",
+      liveUrl: "https://hmtripadvisor.netlify.app/",
       codeUrl: "https://github.com/ashmoune/Tripadvisor",
     },
     {
